@@ -1,0 +1,13 @@
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\bin\Debug\XBOX2ARDUINO.exe.config
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\bin\Debug\XBOX2ARDUINO.exe
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\bin\Debug\XBOX2ARDUINO.pdb
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\bin\Debug\XBOX2ARDUINO.xml
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\obj\Debug\XBOX2ARDUINO.vbproj.GenerateResource.Cache
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\obj\Debug\XBOX2ARDUINO.exe
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\obj\Debug\XBOX2ARDUINO.xml
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\obj\Debug\XBOX2ARDUINO.pdb
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\obj\Debug\XBOX2ARDUINO.frmXBOX2ARDUINO.resources
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\obj\Debug\XBOX2ARDUINO.frmOutputs.resources
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\obj\Debug\XBOX2ARDUINO.frmAbout.resources
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\obj\Debug\XBOX2ARDUINO.Resources.resources
+C:\Users\Áleifr\Documents\Visual Studio 2012\Projects\XBOX2ARDUINO\XBOX2ARDUINO\obj\Debug\XBOX2ARDUINO.frmInputs.resources
